@@ -7,13 +7,14 @@
      padding-bottom: 60px;
 }
 
-.container > .short-row{
+.container > .short-row {
     width: 600px;
    
 }
 .container >  .row {
     display: flex;
     justify-content: space-between;
+   
     gap: 60px 0;
     width: 1000px;
 }
@@ -46,7 +47,17 @@
 @media(max-width:700px){
     .container > .row,
     .container > .short-row {
-        width: 100%;
+        width: 400px;
     }
 }
 
+@media( max-width:460px){
+    .container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .container > .row,
+    .container > .short-row{
+        width: 100%;
+    }
+}
