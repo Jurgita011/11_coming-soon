@@ -4,7 +4,9 @@
 /* 3rd-party */
 @import'../3rd-party/font-awesome.min.css';
 /* componentes */
+@import'../componets/clock.css';
 @import'../componets/footer.css';
+
 /* CUSTOM STYLE */
 
 .hero{
