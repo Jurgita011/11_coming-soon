@@ -2,7 +2,9 @@
 @import'../base/bace.css';
 @import'../base/layout.css';
 /* 3rd-party */
+@import'../3rd-party/font-awesome.min.css';
 /* componentes */
+@import'../componets/footer.css';
 /* CUSTOM STYLE */
 
 .hero{
