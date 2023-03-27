@@ -24,7 +24,7 @@
 @keyframes scrolling {
    0%{ 
     top: 3em;
-    background-color: yellow;
+    background-color: white;
    }
    30%{
     background-color: white;
