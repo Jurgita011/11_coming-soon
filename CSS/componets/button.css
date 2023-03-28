@@ -1,0 +1,27 @@
+.btn {
+    display: inline-block;
+    width: 100px;
+    background-color: #fd6363;
+    font-family: inherit;
+    font-size: 20px;
+    line-height: 1em;
+    text-decoration: none;
+    padding: 0.5em 1.2em;
+    border-radius: 0.2em;
+    box-shadow: none;
+    color:#fff ;
+    box-shadow: 0 0.1em 0.2em #0005;
+    user-select: none;
+    border: none;
+    word-spacing: 0;
+    letter-spacing: 0em;
+   
+    
+   
+}
+.btn:hover{
+    background-color: #f00;
+    box-shadow: 0 0.1em 0.25em #0007;
+    
+
+}
