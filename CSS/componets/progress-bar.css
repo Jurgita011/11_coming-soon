@@ -31,3 +31,11 @@ align-items: center;
     width: 50%;
     animation: loading 2s;
 }
+@keyframes loading {
+    0%{
+     transform:   translateX(-100%);
+    }
+    100%{
+      transform: translateX(0);
+    }
+}
